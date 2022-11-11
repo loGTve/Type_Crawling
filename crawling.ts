@@ -49,3 +49,15 @@ async function main() {
 
 
 main();
+
+/* Result
+{
+  GameTitle: '',
+  BlockChain: '',
+  NFT: '',
+  F2P: '',
+  P2E: '',
+  Social: ''
+}
+*/
+
